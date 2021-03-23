@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANURAJ PARIYA AKA CODERED</h1>
-<h3 align="center">I AM A CURRENTLY STUDYING IN SRM INSTITUTE OF SCIENCE AND TECHNOLOGY</h3>
+<h3 align="center">I am a currently studying in SRM Institute of science and tecnology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurajpariya03&label=Profile%20views&color=0e75b6&style=flat" alt="anurajpariya03" /> </p>
 
@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **ANYTHING RELATED TECH AND DARK WEB**
+- 💬 Ask me about **anything related Tech and Dark Web**
 
 - 📫 How to reach me **ap1536@srmist.edu.in**
 
-- 📄 Know about my experiences [I am currently a B. Tech student.](I am currently a B. Tech student.)
-
-- ⚡ Fun fact **Beside my engineering , I am a foodie and travel I love to**
+- ⚡ Fun fact **Beside my engineering , I am a foodie and I love to travel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
