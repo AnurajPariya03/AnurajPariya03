@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pariyaanuraj" target="blank"><img src="https://img.shields.io/twitter/follow/pariyaanuraj?logo=twitter&style=for-the-badge" alt="pariyaanuraj" /></a> </p>
 
-- 🔭 I’m currently working on [30-DaysOfCode-March-2021](https://github.com/AnurajPariya03/30-DaysOfCode-March-2021)
+- 🔭 I’m currently working on https://github.com/ISTESRMNCR/DSA-KICKSTART
 
 - 🌱 I’m currently learning **C++**
 
