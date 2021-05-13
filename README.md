@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pariyaanuraj" target="blank"><img src="https://img.shields.io/twitter/follow/pariyaanuraj?logo=twitter&style=for-the-badge" alt="pariyaanuraj" /></a> </p>
 
-- 🔭 I’m currently working on DSA-KICKSTART (https://github.com/AnurajPariya03)
-
+- 🔭 I’m currently working on DSA-KICKSTART *https://github.com/AnurajPariya03/DSA-KICKSTART
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **anything related Tech and Dark Web**
