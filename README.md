@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANURAJ PARIYA AKA CODERED</h1>
-<h3 align="center">I am a currently studying in SRM Institute of science and tecnology.</h3>
+<h3 align="center">I am a currently studying in SRM Institute of science and technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurajpariya03&label=Profile%20views&color=0e75b6&style=flat" alt="anurajpariya03" /> </p>
 
